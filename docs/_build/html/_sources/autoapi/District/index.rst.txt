@@ -1,0 +1,43 @@
+:mod:`District`
+===============
+
+.. py:module:: District
+
+
+Module Contents
+---------------
+
+Classes
+~~~~~~~
+
+.. autoapisummary::
+
+   District.District
+
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   District.get_random_point_in_polygon
+
+
+
+.. function:: get_random_point_in_polygon(poly)
+
+   District for city organisation.
+
+   :param Polygon poly: simple polygon.
+   :return Point p: random point in the Polygon.
+
+
+.. class:: District(city)
+
+
+   District for city organisation.
+
+   :param City city: City container.
+
+

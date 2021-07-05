@@ -1,0 +1,27 @@
+:mod:`Church`
+=============
+
+.. py:module:: Church
+
+
+Module Contents
+---------------
+
+Classes
+~~~~~~~
+
+.. autoapisummary::
+
+   Church.Church
+
+
+
+
+.. class:: Church(polygon)
+
+
+   Church building.
+
+   :param Polygon polygon: building format.
+
+

@@ -1,0 +1,36 @@
+:mod:`city`
+===========
+
+.. py:module:: city
+
+
+Module Contents
+---------------
+
+Classes
+~~~~~~~
+
+.. autoapisummary::
+
+   city.City
+
+
+
+
+.. class:: City(population, density=10000, has_walls=False, has_castle=False, has_river=False)
+
+
+   City Class.
+
+   :param int population: Number of people in the city.
+   :param int density: density of the city 10000 by default.
+   :param boolean has_walls: walls or not.
+   :param boolean has_castle: castle or not.
+   :param boolean has_river: river or not.
+
+   .. method:: components(self)
+
+      :return: the components of the city
+
+
+

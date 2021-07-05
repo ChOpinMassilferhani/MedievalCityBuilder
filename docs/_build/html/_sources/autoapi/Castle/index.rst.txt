@@ -1,0 +1,27 @@
+:mod:`Castle`
+=============
+
+.. py:module:: Castle
+
+
+Module Contents
+---------------
+
+Classes
+~~~~~~~
+
+.. autoapisummary::
+
+   Castle.Castle
+
+
+
+
+.. class:: Castle(polygon)
+
+
+   Castle building.
+
+   :param Polygon polygon: building format.
+
+

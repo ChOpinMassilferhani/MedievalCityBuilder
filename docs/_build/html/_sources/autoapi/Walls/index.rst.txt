@@ -1,0 +1,27 @@
+:mod:`Walls`
+============
+
+.. py:module:: Walls
+
+
+Module Contents
+---------------
+
+Classes
+~~~~~~~
+
+.. autoapisummary::
+
+   Walls.Walls
+
+
+
+
+.. class:: Walls(polygon)
+
+
+   Walls to delimiter the city.
+
+   :param Polygon polygon: City format.
+
+

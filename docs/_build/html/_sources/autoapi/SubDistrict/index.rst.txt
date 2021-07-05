@@ -1,0 +1,44 @@
+:mod:`SubDistrict`
+==================
+
+.. py:module:: SubDistrict
+
+
+Module Contents
+---------------
+
+Classes
+~~~~~~~
+
+.. autoapisummary::
+
+   SubDistrict.SubDistrict
+
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   SubDistrict.get_random_point_in_polygon
+
+
+
+.. function:: get_random_point_in_polygon(poly)
+
+   District for city organisation.
+
+   :param Polygon poly: simple polygon.
+   :return Point p: random point in the Polygon.
+
+
+.. class:: SubDistrict(city, district)
+
+
+   District for city organisation.
+
+   :param City city: City container.
+   :param District district: Container of the district.
+
+

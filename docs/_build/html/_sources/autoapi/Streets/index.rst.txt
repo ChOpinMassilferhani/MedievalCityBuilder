@@ -1,0 +1,27 @@
+:mod:`Streets`
+==============
+
+.. py:module:: Streets
+
+
+Module Contents
+---------------
+
+Classes
+~~~~~~~
+
+.. autoapisummary::
+
+   Streets.Streets
+
+
+
+
+.. class:: Streets(district)
+
+
+   Street of the city.
+
+   :param District district: Where to put streets.
+
+

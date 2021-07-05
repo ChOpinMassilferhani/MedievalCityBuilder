@@ -1,0 +1,35 @@
+:mod:`tools`
+============
+
+.. py:module:: tools
+
+
+Module Contents
+---------------
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   tools.json
+
+
+
+Attributes
+~~~~~~~~~~
+
+.. autoapisummary::
+
+   tools.SCHEMA
+
+
+.. data:: SCHEMA
+   
+
+   
+
+.. function:: json(what, filename)
+
+

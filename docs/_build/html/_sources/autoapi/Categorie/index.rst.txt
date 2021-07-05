@@ -1,0 +1,147 @@
+:mod:`Categorie`
+================
+
+.. py:module:: Categorie
+
+
+Module Contents
+---------------
+
+Classes
+~~~~~~~
+
+.. autoapisummary::
+
+   Categorie.Category
+
+
+
+
+.. class:: Category
+
+
+   Bases: :py:obj:`enum.IntEnum`
+
+   Category of buildings Enum.
+
+   .. attribute:: UNDEFINED
+      :annotation: = 0
+
+      
+
+   .. attribute:: LAND
+      :annotation: = 1
+
+      
+
+   .. attribute:: FIELD
+      :annotation: = 2
+
+      
+
+   .. attribute:: FOREST
+      :annotation: = 3
+
+      
+
+   .. attribute:: RIVER
+      :annotation: = 4
+
+      
+
+   .. attribute:: LAKE
+      :annotation: = 5
+
+      
+
+   .. attribute:: SEA
+      :annotation: = 6
+
+      
+
+   .. attribute:: PARK
+      :annotation: = 7
+
+      
+
+   .. attribute:: GARDEN
+      :annotation: = 8
+
+      
+
+   .. attribute:: HOUSE
+      :annotation: = 10
+
+      
+
+   .. attribute:: MANSION
+      :annotation: = 11
+
+      
+
+   .. attribute:: MARKET
+      :annotation: = 12
+
+      
+
+   .. attribute:: TOWNHALL
+      :annotation: = 13
+
+      
+
+   .. attribute:: UNIVERSITY
+      :annotation: = 14
+
+      
+
+   .. attribute:: FARM
+      :annotation: = 15
+
+      
+
+   .. attribute:: CHURCH
+      :annotation: = 20
+
+      
+
+   .. attribute:: CATHEDRAL
+      :annotation: = 21
+
+      
+
+   .. attribute:: MONASTRY
+      :annotation: = 22
+
+      
+
+   .. attribute:: FORT
+      :annotation: = 31
+
+      
+
+   .. attribute:: CASTLE
+      :annotation: = 32
+
+      
+
+   .. attribute:: WALL
+      :annotation: = 33
+
+      
+
+   .. attribute:: STREET
+      :annotation: = 50
+
+      
+
+   .. attribute:: BRIDGE
+      :annotation: = 51
+
+      
+
+   .. attribute:: COMPOSITE
+      :annotation: = 90
+
+      
+
+

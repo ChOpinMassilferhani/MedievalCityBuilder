@@ -1,0 +1,27 @@
+:mod:`house`
+============
+
+.. py:module:: house
+
+
+Module Contents
+---------------
+
+Classes
+~~~~~~~
+
+.. autoapisummary::
+
+   house.House
+
+
+
+
+.. class:: House(polygon)
+
+
+   House building.
+
+   :param Polygon polygon: building format.
+
+

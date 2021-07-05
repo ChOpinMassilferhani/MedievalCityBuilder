@@ -1,0 +1,22 @@
+:mod:`viewer`
+=============
+
+.. py:module:: viewer
+
+
+Module Contents
+---------------
+
+
+Functions
+~~~~~~~~~
+
+.. autoapisummary::
+
+   viewer.view
+
+
+
+.. function:: view(filename='test.json')
+
+

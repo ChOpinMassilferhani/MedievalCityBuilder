@@ -1,0 +1,27 @@
+:mod:`Cathedral`
+================
+
+.. py:module:: Cathedral
+
+
+Module Contents
+---------------
+
+Classes
+~~~~~~~
+
+.. autoapisummary::
+
+   Cathedral.Cathedral
+
+
+
+
+.. class:: Cathedral(polygon)
+
+
+   Cathedral building.
+
+   :param Polygon polygon: building format.
+
+
